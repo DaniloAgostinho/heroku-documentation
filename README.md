@@ -33,6 +33,7 @@ heroku open
 ### View app localhost
 
 <pre>
+npm install 
 npm start
 </pre>
 
